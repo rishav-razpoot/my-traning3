@@ -1,2 +1,2 @@
 # traning 3
-learning git & github
+learning git & github using GUI.
